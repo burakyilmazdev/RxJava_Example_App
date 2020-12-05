@@ -4,7 +4,10 @@ Besides Rxjava library, some populer library(Retrofit,Glide,Gson etc. ) were use
 
 RxJava kütüphanesinin yanında bazı popüler kütüphaneler(Retrofit,Glide,Gson vb.) kullanıldı. Veri https://jsonplaceholder.typicode.com/ sahte api'sinden getiriliyor.Albümler ve fotoğraflar flatmap operatörü kullanılarak birleştiriliyor. Ağ operasyonunu görmek için fotoğrafların getirilmesi işlemine biraz gecikme eklendi.
 
-<img src="https://user-images.githubusercontent.com/45144910/101245915-1b83c100-3721-11eb-8a0e-d03680b3fda6.gif" width="200" height="400">
 
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45144910/101245915-1b83c100-3721-11eb-8a0e-d03680b3fda6.gif" width="200" height="400">
+</p>
 
 
